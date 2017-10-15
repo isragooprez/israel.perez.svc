@@ -6,11 +6,11 @@ public class C11 {
 		// TODO Auto-generated constructor stub
 	}
 
-	public String m1() {
+	public static String m1() {
 		return "m1";
 	}
 
-	public String m2() {
+	public static String m2() {
 		return "m2";
 	}
 
