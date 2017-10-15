@@ -6,7 +6,7 @@ public class C22 {
 		// TODO Auto-generated constructor stub
 	}
 	
-	public String mA() {
+	public static String mA() {
 		return "mA";
 	}
 
