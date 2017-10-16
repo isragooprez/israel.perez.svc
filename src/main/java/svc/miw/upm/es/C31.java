@@ -16,4 +16,9 @@ public class C31 {
 
 	}
 
+	public static String mB() {
+		return "mB";
+
+	}
+
 }
